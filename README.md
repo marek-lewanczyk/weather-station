@@ -37,4 +37,4 @@ Original source: https://www.printables.com/model/729382-yaws-yet-another-weathe
 
 ## License
 
-This software is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This software is licensed under the [MIT License](https://mit-license.org). See [LICENSE](LICENSE) for details.
