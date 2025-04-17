@@ -29,11 +29,21 @@ If you already cloned it without submodules:
 git submodule update --init --recursive
 ```
 
-## Attribution
+## 📄 Attribution
 
-Parts of this project (e.g. 3D models) are based on work licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Elements of this project are inspired by:
 
-Original source: https://www.printables.com/model/729382-yaws-yet-another-weather-station/files
+- **Raspberry Pi Foundation**  
+  "Build Your Own Weather Station"  
+  [https://projects.raspberrypi.org/en/projects/build-your-own-weather-station](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station)
+
+  Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+- **Matteo Domanin**
+  "YAWS, Yet Another Weather Station"
+  [https://www.printables.com/model/729382-yaws-yet-another-weather-station/files](https://www.printables.com/model/729382-yaws-yet-another-weather-station/files)
+
+  Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ## License
 
