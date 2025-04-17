@@ -20,7 +20,7 @@ This project is split into three independent Git submodules:
 ### ✅ Clone the repository with submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/s29420-pj/weather-station.git
+git clone --recurse-submodules https://github.com/marek-lewanczyk/weather-station.git
 ```
 
 If you already cloned it without submodules:
