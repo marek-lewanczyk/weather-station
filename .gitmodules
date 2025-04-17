@@ -1,3 +1,6 @@
 [submodule "device"]
 	path = device
 	url = https://github.com/s29420-pj/weather-station-device.git
+[submodule "server"]
+	path = server
+	url = https://github.com/s29420-pj/weather-station-server.git
