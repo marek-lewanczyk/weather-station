@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MicroPythonTools">
+    <option name="activeStubsPackage" value="micropython-esp8266-stubs_1.23.0" />
+    <option name="cachedFTPScriptPath" />
+    <option name="filterManufacturers" value="false" />
+    <option name="pluginEnabled" value="true" />
+    <option name="portName" value="/dev/cu.usbserial-110" />
+    <option name="settingsVersion" value="2" />
+  </component>
+</project>
